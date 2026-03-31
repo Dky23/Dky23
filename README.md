@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Daksh Yadav</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on [Major Project](https://github.com/Dky23/PortFolio.git)
-
-- 💬 Ask me about **Javascript**
+- 🔭 I’m currently working on [Major Project](https://github.com/Dky23/Major-Project.git)
+- 💬 Working on SpringBoot,Java.
 
 - 📫 How to reach me **dakshncsd@gmail.com**
 
