@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Daksh Yadav</h1>
 <h3 align="center">A passionate backend developer from India</h3>
 
-- 🔭 I’m currently working on [Major Project](https://github.com/Dky23/Major-Project.git)  
+- 🔭 I’m currently working on [Major Project](https://github.com/Dky23/MajorProject-Main-.git)  
 - 💻 I working in **Spring Boot, Java, MongoDB, and the MERN stack**  
 - 🌱 I’m learning **microservices and cloud deployment**  
 - 📫 How to reach me: **dakshncsd@gmail.com**
